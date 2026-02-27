@@ -28,7 +28,7 @@ Developed as a final project for CSC393 course, Developing Backend Applications 
 ## Configuration
 * Database is created in `MySQL` by default. 
 * Create a `car_rental_db` database in MySQL.
-* Change the `URL`, `username` and `password`.
+* Change the `URL`, `username` and `password` at `application.properties`.
 * Swagger API documentation can be found at `http://localhost:8081/swagger-ui/index.html`
 
 
